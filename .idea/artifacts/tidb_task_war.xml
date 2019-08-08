@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="tidb_task:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="tidb-task.war">
-      <element id="artifact" artifact-name="tidb_task:war exploded" />
-    </root>
-  </artifact>
-</component>
